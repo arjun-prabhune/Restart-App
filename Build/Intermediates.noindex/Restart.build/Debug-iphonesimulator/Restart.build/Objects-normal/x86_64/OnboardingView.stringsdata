@@ -1,0 +1,16 @@
+{
+  "source": "/Users/arjunprabhune/SwiftTraining/Restart/Restart/Screens/OnboardingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "It's not how much love we give but\nhow much love we put into giving."
+      },
+      {
+        "comment": "",
+        "key": "Get Started"
+      }
+    ]
+  },
+  "version": 1
+}

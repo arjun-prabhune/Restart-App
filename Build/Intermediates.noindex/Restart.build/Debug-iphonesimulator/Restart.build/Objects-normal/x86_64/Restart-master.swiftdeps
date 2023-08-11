@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "eca8783f4d4ae5bda4ad27d26d8cffdcff18fd383355551e5900bf0373b48953"
+build_start_time: [1691706498, 240442000]
+build_end_time: [1691706500, 697958000]
+inputs:
+  "/Users/arjunprabhune/SwiftTraining/Restart/Restart/RestartApp.swift": [1691422113, 701787029]
+  "/Users/arjunprabhune/SwiftTraining/Restart/Restart/Screens/ContentView.swift": [1691424913, 510673682]
+  "/Users/arjunprabhune/SwiftTraining/Restart/Restart/Screens/HomeView.swift": [1691701520, 229246283]
+  "/Users/arjunprabhune/SwiftTraining/Restart/Restart/Screens/OnboardingView.swift": [1691706494, 47718144]
+  "/Users/arjunprabhune/SwiftTraining/Restart/Restart/Utilities/AudioPlayer.swift": [1691701335, 461746757]
+  "/Users/arjunprabhune/SwiftTraining/Restart/Restart/Views/CircleGroupView.swift": [1691532267, 293220636]
